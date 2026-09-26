@@ -1,4 +1,6 @@
-# Stays Booking Frontend
+# StayBooking Frontend
+
+The Project Backend is in [StayBooking_Backend](https://github.com/oliver3629/StayBooking_Backend).
 
 React frontend for Staybooking. Guests can search stays and manage reservations; hosts can upload and manage listings and view bookings.
 
@@ -10,14 +12,14 @@ React frontend for Staybooking. Guests can search stays and manage reservations;
 
 ## Project structure
 
-| File | Purpose |
-| --- | --- |
-| `src/App.js` | Login state and host/guest views |
-| `src/components/LoginPage.js` | Registration and login |
-| `src/components/HostHomePage.js` | Host listings and bookings |
-| `src/components/GuestHomePage.js` | Stay search and reservations |
-| `src/components/UploadStay.js` | New listing form |
-| `src/utils.js` | Backend API requests |
+| File                              | Purpose                          |
+| --------------------------------- | -------------------------------- |
+| `src/App.js`                      | Login state and host/guest views |
+| `src/components/LoginPage.js`     | Registration and login           |
+| `src/components/HostHomePage.js`  | Host listings and bookings       |
+| `src/components/GuestHomePage.js` | Stay search and reservations     |
+| `src/components/UploadStay.js`    | New listing form                 |
+| `src/utils.js`                    | Backend API requests             |
 
 ## Run locally
 
